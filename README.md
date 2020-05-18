@@ -4,7 +4,7 @@ Package Updated for Angular 9 (Renderer2 Errors fixed)
 
 contact for more: <a href="mailto:h@h4di.ir">h@h4di.ir</a>
 <br>
-<a href="https://www.github.com/hnazifi/angular9-datepicker">Github</a>
+<a href="https://www.npmjs.com/package/ng9-jalali-date-picker">NPM</a>
 
 
 ----
